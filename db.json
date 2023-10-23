@@ -1,0 +1,9 @@
+{
+  {"chute": {
+    "full": [3, 4], 
+    "inUse": [20, 30, 42],  
+    "available": [21, 33],  
+    "notAvailable": [35, 38], 
+    "empty": [21, 25]
+  }
+}
