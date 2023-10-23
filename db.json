@@ -1,5 +1,5 @@
 {
-  {"chute": {
+  "chute": {
     "full": [3, 4], 
     "inUse": [20, 30, 42],  
     "available": [21, 33],  
